@@ -10,4 +10,10 @@ title: Your New Jekyll Site
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  {% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 </div>
