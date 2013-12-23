@@ -38,6 +38,19 @@
   text-decoration: none;
 }
 
+.navbar a{
+  color: white !important;
+}
+
+.navbar{
+  color: #ffffff !important;
+  border-radius: 0px !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+  background-color: #16a085 !important;
+  border-color: #7f8c8d !important;
+}
+
 .title {
   display: inline-block;
   margin-bottom: 2em;
