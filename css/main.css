@@ -40,13 +40,19 @@
 
 #main-jumbotron{
   width: 100%;
+  padding-bottom: 50px;
   background-color: #16a085;
   border-top: 1px solid #9FC6BE;
+  border-bottom: 1px solid #0F705D;
+  background-image: url('../../background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #main-jumbotron *{
   color: white !important;
   font-weight: 200 !important;
+  text-shadow: 1px 1px 1px #0F705D;
 }
 
 #main-jumbotron h1{
@@ -70,6 +76,10 @@
 
 .navbar-brand {
   font-weight: 100 !important;
+}
+
+.active a{
+  background-color: #73C6B6 !important;
 }
 
 .title {
