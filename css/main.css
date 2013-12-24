@@ -38,17 +38,38 @@
   text-decoration: none;
 }
 
+#main-jumbotron{
+  width: 100%;
+  background-color: #16a085;
+  border-top: 1px solid #9FC6BE;
+}
+
+#main-jumbotron *{
+  color: white !important;
+  font-weight: 200 !important;
+}
+
+#main-jumbotron h1{
+  font-size: 70px !important;
+}
+
 .navbar a{
   color: white !important;
 }
 
 .navbar{
   color: #ffffff !important;
+  margin-bottom: 0px !important;
   border-radius: 0px !important;
   border-left: 0px !important;
   border-right: 0px !important;
+  border-top: 0px !important;
   background-color: #16a085 !important;
-  border-color: #7f8c8d !important;
+  border-color: #0F705D !important;
+}
+
+.navbar-brand {
+  font-weight: 100 !important;
 }
 
 .title {
