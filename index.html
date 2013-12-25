@@ -7,10 +7,7 @@ title: Charlie Weems | Home
 <div class="" id="main-jumbotron">
 	<div class="container">
 		<h1>Hi, I'm Charlie Weems</h1>
-		<h2>I write nice things for people and computers <span class="h3 glyphicon glyphicon-pencil"></span> I live and work in Washington, DC <span class="h3 glyphicon glyphicon-map-marker"></span> and work for an international development company <span class="h3 glyphicon glyphicon-globe"></span></h2>
-		<button type="button" class="btn btn-default">Default</button>
-		<button type="button" class="btn btn-default">Default</button>
-		<button type="button" class="btn btn-default">Default</button>
+		<h2>I write nice things for people and computers <span class="h3 glyphicon glyphicon-pencil"></span>, live in Washington, DC <span class="h3 glyphicon glyphicon-map-marker"></span> and work for an international development company <span class="h3 glyphicon glyphicon-globe"></span>. I also take photos and make videos</h2>
 	</div>
 </div>
 <div class="container">
@@ -36,10 +33,11 @@ title: Charlie Weems | Home
 
 <script type="text/javascript">
 	$(window).scroll(function () {
-  		var Bottom = $(window).height() + $(window).scrollTop() >= $(document).height();
-	if(Bottom)
-		{
-			$('#main-jumbotron').fadeOut();
-		}
+    $jumbotron = $('#main-jumbotron');
+    $jumbotron.slideToggle(500, function () {
+        $jumbotron.text(function () {
+            return $content.is(":visible") ? "Collapse" : "Expand";
+        	});
+    	});
 	});
 </script>
