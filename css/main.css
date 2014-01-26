@@ -6,7 +6,6 @@
 
 /* Global Reset */
 
-
 /*****************************************************************************/
 /*
 /* Home
@@ -33,6 +32,7 @@
 /* Site
 /*
 /*****************************************************************************/
+
 
 .header a {
   font-weight: bold;
@@ -111,8 +111,10 @@
 
 .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
+  height: 400px;
+  color: #3498DB;
+  background-color: #34495E;
+  border-top: 1px solid #2C3E50;
   margin-top: 2em;
   overflow: hidden;
 }
