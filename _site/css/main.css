@@ -5,6 +5,29 @@
 /*****************************************************************************/
 
 /* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-color: #FFF;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+
+h1 { margin-bottom: 1em; }
+p { margin: 1em 0; }
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
 
 /*****************************************************************************/
 /*
@@ -14,7 +37,6 @@
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
-  padding-left: 0px !important;
 }
 
 .posts li {
@@ -33,54 +55,17 @@
 /*
 /*****************************************************************************/
 
+.site {
+  font-size: 115%;
+  text-align: justify;
+  width: 42em;
+  margin: 3em auto 2em;
+  line-height: 1.5em;
+}
 
 .header a {
   font-weight: bold;
   text-decoration: none;
-}
-
-#main-jumbotron{
-  width: 100%;
-  padding-bottom: 50px;
-  background-color: #16a085;
-  border-top: 1px solid #9FC6BE;
-  border-bottom: 1px solid #0F705D;
-  background-image: url('../../background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#main-jumbotron *{
-  color: white !important;
-  font-weight: 200 !important;
-  text-shadow: 1px 1px 1px #0F705D;
-}
-
-#main-jumbotron h1{
-  font-size: 70px !important;
-}
-
-.navbar a{
-  color: white !important;
-}
-
-.navbar{
-  color: #ffffff !important;
-  margin-bottom: 0px !important;
-  border-radius: 0px !important;
-  border-left: 0px !important;
-  border-right: 0px !important;
-  border-top: 0px !important;
-  background-color: #16a085 !important;
-  border-color: #0F705D !important;
-}
-
-.navbar-brand {
-  font-weight: 100 !important;
-}
-
-.active a{
-  background-color: #73C6B6 !important;
 }
 
 .title {
@@ -111,10 +96,8 @@
 
 .footer {
   font-size: 80%;
-  height: 400px;
-  color: #3498DB;
-  background-color: #34495E;
-  border-top: 1px solid #2C3E50;
+  color: #666;
+  border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }

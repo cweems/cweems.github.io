@@ -1,5 +1,3 @@
-name: Charlie Weems
+name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-description: I write nice things for people and computers.
-url: http://cweems.github.io
