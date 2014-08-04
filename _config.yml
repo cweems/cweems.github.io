@@ -1,3 +1,13 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+# Site settings
+title: Arboretum
+email: your-email@domain.com
+description: "Arboretum is the TechChange front-end design foundation. It draws upon Bootstrap 3 to create a simple interface with a focus on eLearning."
+baseurl: ""
+url: "http://techchange.org"
 pygments: true
+twitter_username: techchange
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
