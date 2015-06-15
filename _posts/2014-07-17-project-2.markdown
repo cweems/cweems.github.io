@@ -6,10 +6,10 @@ modal-id: 2
 date: 2014-07-17
 img: TechChange-Website.png
 thumbnail: TechChange-Website.png
-alt: image-alt
+alt: project-photo
 project-date: April 2014
 client: TechChange, Inc.
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: After three years without major changes, I overhauled TechChange's main website. In the process, I created many of the components and styles that are used throughout the site. I worked mostly in PHP to create a series of modular components that can be dragged and dropped into position and customized so that other team members could easily create pages of their own.
 
 ---

@@ -1,5 +1,5 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /
 
 # Site settings
 title: Charlie Weems
@@ -8,8 +8,8 @@ description: "Charlie Weems. I write nice things for people and computers."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 20ABB6
-  secondary: 67C4CA  
+  primary: 399fd3
+  secondary: 7ab5d6  
   secondary-dark: 9A9887
 
 # Team names, titles and social links

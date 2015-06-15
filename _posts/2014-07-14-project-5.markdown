@@ -6,10 +6,10 @@ modal-id: 5
 date: 2014-07-14
 img: techchange-platform.png
 thumbnail: techchange-platform.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+alt: project-photo
+project-date: January 2015
+client: TechChange, Inc.
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: TechChange's course platform has served as an online classroom for more than 5000 alumni from 100+ countries. For this project, I updated the look and feel of the course platform to match the TechChange website and accounts page to ensure a consistent user experience. One of my favorite additions here was a loading screen, which made for a more graceful loading experience for our users in low-bandwidth locations.
 
 ---

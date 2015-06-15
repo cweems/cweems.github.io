@@ -6,10 +6,10 @@ modal-id: 3
 date: 2014-07-16
 img: kdmd-website.png
 thumbnail: kdmd-website.png
-alt: image-alt
+alt: project-photo
 project-date: April 2014
-client: Start Bootstrap
+client: USAID KDMD Project
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The USAID Knowledge-Driven Microenterprise Development Project worked to help NGOs funded by USAID share best parctices and strategies for facilitating economic empowerment. In addition to my other work on the project, I created an AngularJS-based final report website that served to pass along the achievements and lessons learned from the project. My favorite aspect of the project was the collaboration that went into creating the site.
 
 ---

@@ -6,10 +6,10 @@ modal-id: 4
 date: 2014-07-15
 img: apiwellness.png
 thumbnail: apiwellness.png
-alt: image-alt
+alt: project-photo
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Online Course Development
+description: As a Project Coordinator at TechChange, I worked with the Asian and Pacific Islander Wellness Center in San Francisco to create an online course for doctors, nurses, and volunteers who help people living with HIV/AIDS. The course is accredited to provide healthcare practitioners with continuing education credits in the State of California. To date, more than 400 individuals have taken the course.
 
 ---
