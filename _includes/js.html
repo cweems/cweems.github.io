@@ -15,3 +15,15 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.url }}"></script>
+
+    <!-- Github Feed Dependencies -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+    <script type="text/javascript" src="{{ "/js/github-activity.min.js " | prepend: site.url }}"></script>
+
+    <script type="text/javascript">
+        GitHubActivity.feed({
+            username: "cweems",
+            selector: "#feed",
+            limit: 20 // optional
+        });
+    </script>
