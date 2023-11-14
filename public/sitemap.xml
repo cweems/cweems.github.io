@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://wee.ms/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/categories/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/posts/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/</loc>
+    </url>
+</urlset>
