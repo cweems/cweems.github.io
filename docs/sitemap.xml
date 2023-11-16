@@ -7,9 +7,22 @@
         <loc>https://wee.ms/categories/</loc>
     </url>
     <url>
+        <loc>https://wee.ms/categories/travel/</loc>
+    </url>
+    <url>
         <loc>https://wee.ms/posts/</loc>
     </url>
     <url>
+        <loc>https://wee.ms/posts/one-month-in-japan/</loc>
+        <lastmod>2023-11-13</lastmod>
+    </url>
+    <url>
         <loc>https://wee.ms/tags/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/honeymoon/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/japan/</loc>
     </url>
 </urlset>
