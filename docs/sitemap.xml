@@ -10,7 +10,14 @@
         <loc>https://wee.ms/categories/travel/</loc>
     </url>
     <url>
+        <loc>https://wee.ms/categories/work/</loc>
+    </url>
+    <url>
         <loc>https://wee.ms/posts/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/posts/low-gear-thinking/</loc>
+        <lastmod>2023-10-19</lastmod>
     </url>
     <url>
         <loc>https://wee.ms/posts/one-month-in-japan/</loc>
@@ -24,5 +31,17 @@
     </url>
     <url>
         <loc>https://wee.ms/tags/japan/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/problem-solving/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/sip/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/solutions-architecture/</loc>
+    </url>
+    <url>
+        <loc>https://wee.ms/tags/twilio/</loc>
     </url>
 </urlset>
