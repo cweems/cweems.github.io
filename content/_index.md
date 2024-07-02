@@ -9,9 +9,6 @@ Hi, I'm Charlie.
 
 I'm a Solutions Architect at Twilio where I help customers integrate APIs for SMS, Voice, and Email. Outside of work I enjoy running, biking, and camping. I live in Berkeley, California with my wife and two dogs. I don't spend much time on social media, but if you'd like to chat feel free to connect on [LinkedIn](https://www.linkedin.com/in/charlie-weems/).
 
-![Me finishing the SF marathon in 2023](/img/marathon.jpeg)
-***Me at the finish line of the San Francisco Marathon in 2023.***
-
 I joined Twilio in 2018 as one of the first technical hires on Twilio.org. From 2018-2019 I focused on launching Twilio's Salesforce integration for nonprofits (and now all customers).
 
 During the COVID-19 Pandemic, I worked with many of Twilio's nonprofit and government customers on differing projects such as contact centers for contact tracing, and the national vaccine finder short code.
