@@ -18,17 +18,11 @@ truncate_summary = false
 
 My wife and I went to Japan for our honeymoon. We were lucky to be able to take several weeks off work to completely disconnect. Every day, I wrote in a small journal with a tiny travel pen about what we did, where we went, and what we saw. Necessary so that we can re-live the details in a few years, but admittedly about as interesting as a convenience store receipt. More than what we saw and did, I wanted to talk a bit about what we felt on our trip.
 
-# Travel is Anxiety
-We received our first dose an hour into our flight to Tokyo when our pilot, with a moderated urgency blurted, "Please return to your seats and fasten your seatbelts immediately." Flight attendants scurried down both aisles asking, "Police or military?"
+An hour into our flight to Tokyo when our pilot, with a moderated urgency blurted, "Please return to your seats and fasten your seatbelts immediately." Flight attendants scurried down both aisles asking, "Police or military?"
 
 This was an alarming first. I've heard calls for medical personnel frequently on international flights. But military? Our minds immediately jumped to hijacking or some high-profile crime in progress. Whispers circulated throughout the cabin. There was a fight in the back of the aircraft. Would we turn around?
 
 In the end, an extremely drunk passenger was subdued by the relief pilots. Anxiety gone. The pilot keyed on the mic to say, "Well, I know there are a lot of pilots taking care of an issue in the back of the plane, but I just wanted to let you know we still have a crew flying." Cue laughs, and a collective exhale from the 400 people on board.
-
-
-{% note(header="Tip") %}
-Assaulting a flight attendant is a great travel hack to be first off an airplane... in police custody.
-{% end %}
 
 Will our transit passes work at the subway turn-style? Will this restaurant be good? Will we get hypothermia in the mountains of Kamikochi? Anxiety often came in short spurts. It's a burden that adds contrast to memories.
 
