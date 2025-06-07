@@ -7,6 +7,9 @@
         <loc>https://wee.ms/categories/</loc>
     </url>
     <url>
+        <loc>https://wee.ms/categories/books/</loc>
+    </url>
+    <url>
         <loc>https://wee.ms/categories/travel/</loc>
     </url>
     <url>
@@ -26,6 +29,10 @@
     <url>
         <loc>https://wee.ms/posts/one-month-in-japan/</loc>
         <lastmod>2023-11-13</lastmod>
+    </url>
+    <url>
+        <loc>https://wee.ms/posts/the-berkeley-archipelago/</loc>
+        <lastmod>2024-09-03</lastmod>
     </url>
     <url>
         <loc>https://wee.ms/tags/</loc>
